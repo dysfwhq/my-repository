@@ -1,0 +1,252 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "name": "黄色仓库",
+      "key": "hsck",
+      "type": 0,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "番茄资源",
+      "key": "fqzy",
+      "type": 0,
+      "api": "https://fqzy.me//api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "91资源",
+      "key": "91zy",
+      "type": 0,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "细胞资源",
+      "key": "xbzy",
+      "type": 0,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "大地资源",
+      "key": "ddzy",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "百万资源 ",
+      "key": "bwzy",
+      "type": 0,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "桃花资源",
+      "key": "thzy",
+      "type": 0,
+      "api": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "优优资源",
+      "key": "yyzy",
+      "type": 0,
+      "api": "https://www.yyzywcj.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "CK资源 ",
+      "key": "ckzy",
+      "type": 0,
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "大奶子资源",
+      "key": "dnzzy",
+      "type": 0,
+      "api": "https://apidanaizi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "搜av资源 ",
+      "key": "savzy",
+      "type": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "奥斯卡资源",
+      "key": "askzy",
+      "type": 0,
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "最色资源",
+      "key": "zszy",
+      "type": 0,
+      "api": "https://api.zuiseapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "滴滴资源",
+      "key": "ddzy",
+      "type": 0,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "豆豆资源",
+      "key": "ddzy",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    },
+    {
+      "name": "色猫资源",
+      "key": "smzy",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "extType": "text",
+      "ext": ""
+    }
+  ],
+  "lives": {
+    "undefined": [
+      {
+        "name": "live",
+        "url": "https://github.740306.xyz/https://raw.githubusercontent.com/dyjldq/CatVodSpider/main/txt/adult.txt",
+        "logo": "https://epg.112114.xyz/logo/{name}.png",
+        "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      }
+    ]
+  },
+  "parses": [
+    {
+      "name": "91资源",
+      "type": 0,
+      "url": "https://91jpplayer.top/?url=",
+      "headers": {}
+    },
+    {
+      "name": "黄色仓库",
+      "type": 0,
+      "url": "https://jx.bfhsck.com/m3u8/?url=",
+      "headers": {}
+    },
+    {
+      "name": "细胞资源",
+      "type": 0,
+      "url": "https://xxb-player.com/player.php/?url=",
+      "headers": {}
+    },
+    {
+      "name": "百万资源",
+      "type": 0,
+      "url": "https://bf.bwzyapi.com/?url=",
+      "headers": {}
+    },
+    {
+      "name": "搜av资源",
+      "type": 0,
+      "url": "https://souavzy.info/m3u8/?url=",
+      "headers": {}
+    },
+    {
+      "name": "奥斯卡资源1",
+      "type": 0,
+      "url": "https://askjxbf.com/play.html?url=",
+      "headers": {}
+    },
+    {
+      "name": "奥斯卡资源2",
+      "type": 0,
+      "url": "https://askjxbf.com/?url=",
+      "headers": {}
+    }
+  ],
+  "flags": []
+}
